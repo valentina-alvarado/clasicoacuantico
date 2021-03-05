@@ -1,4 +1,4 @@
-# clasicoacuantico
+# PROGRAMA SIMULACIÓN DE LO CLÁSICO A LO CUÁNTICO
 
 Retos de programación del capítulo 3 del libro "quantum computing for computer scientists".
 
